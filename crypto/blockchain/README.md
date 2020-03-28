@@ -1,3 +1,5 @@
+Adopted from [blockchain_conf_paper](https://github.com/jianyu-niu/blockchain_conference_paper)
+
 # Academic Blockchain Papers
 A curated blockchain-related academic papers. All papers are sorted based on the conference name and published year.
 Welcome developers or researchers to add more published paper to this list. 
