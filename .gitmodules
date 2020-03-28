@@ -7,3 +7,9 @@
 [submodule "system/distributed system/distributed-consensus-reading-list"]
 	path = system/distributed system/distributed-consensus-reading-list
 	url = https://github.com/heidihoward/distributed-consensus-reading-list.git
+[submodule "database/db-readings"]
+	path = database/db-readings
+	url = https://github.com/rxin/db-readings.git
+[submodule "misc/awesome-courses"]
+	path = misc/awesome-courses
+	url = https://github.com/prakhar1989/awesome-courses.git
