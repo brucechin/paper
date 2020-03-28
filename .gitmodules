@@ -1,3 +1,9 @@
 [submodule "system/systems-seminar-uiuc.github.io"]
 	path = system/systems-seminar-uiuc.github.io
 	url = https://github.com/systems-seminar-uiuc/systems-seminar-uiuc.github.io.git
+[submodule "system/distributed system/awesome-distributed-systems"]
+	path = system/distributed system/awesome-distributed-systems
+	url = https://github.com/theanalyst/awesome-distributed-systems.git
+[submodule "system/distributed system/distributed-consensus-reading-list"]
+	path = system/distributed system/distributed-consensus-reading-list
+	url = https://github.com/heidihoward/distributed-consensus-reading-list.git
