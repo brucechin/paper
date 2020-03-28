@@ -1,0 +1,3 @@
+[submodule "system/systems-seminar-uiuc.github.io"]
+	path = system/systems-seminar-uiuc.github.io
+	url = https://github.com/systems-seminar-uiuc/systems-seminar-uiuc.github.io.git
