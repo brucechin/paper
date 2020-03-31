@@ -13,3 +13,6 @@
 [submodule "misc/awesome-courses"]
 	path = misc/awesome-courses
 	url = https://github.com/prakhar1989/awesome-courses.git
+[submodule "sysml/Readings_MLDB"]
+	path = sysml/Readings_MLDB
+	url = https://github.com/jinw18/Readings_MLDB.git
