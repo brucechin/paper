@@ -16,3 +16,9 @@
 [submodule "sysml/Readings_MLDB"]
 	path = sysml/Readings_MLDB
 	url = https://github.com/jinw18/Readings_MLDB.git
+[submodule "sysml/eecs598"]
+	path = sysml/eecs598
+	url = https://github.com/mosharaf/eecs598.git
+[submodule "networking/eecs489"]
+	path = networking/eecs489
+	url = https://github.com/mosharaf/eecs489.git
