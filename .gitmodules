@@ -22,3 +22,6 @@
 [submodule "networking/eecs489"]
 	path = networking/eecs489
 	url = https://github.com/mosharaf/eecs489.git
+[submodule "crypto/blockchain/blockchain-papers"]
+	path = crypto/blockchain/blockchain-papers
+	url = https://github.com/decrypto-org/blockchain-papers.git
