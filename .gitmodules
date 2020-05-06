@@ -28,3 +28,6 @@
 [submodule "security and privacy/6.858-lecture-notes"]
 	path = security and privacy/6.858-lecture-notes
 	url = https://github.com/alinush/6.858-lecture-notes.git
+[submodule "crypto/blockchain/Top-Blockchain-paper"]
+	path = crypto/blockchain/Top-Blockchain-paper
+	url = https://github.com/baozjian/Top-Blockchain-paper.git
