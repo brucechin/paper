@@ -31,3 +31,7 @@
 [submodule "crypto/blockchain/Top-Blockchain-paper"]
 	path = crypto/blockchain/Top-Blockchain-paper
 	url = https://github.com/baozjian/Top-Blockchain-paper.git
+[submodule "database/asciiclass"]
+	path = database/asciiclass
+	url = https://github.com/mitdbg/asciiclass.git
+	branch = master
