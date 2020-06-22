@@ -35,3 +35,11 @@
 	path = database/asciiclass
 	url = https://github.com/mitdbg/asciiclass.git
 	branch = master
+[submodule "crypto/sgx-papers"]
+	path = crypto/sgx-papers
+	url = https://github.com/vschiavoni/sgx-papers.git
+	branch = master
+[submodule "crypto/Awesome-Privacy"]
+	path = crypto/Awesome-Privacy
+	url = https://github.com/Guyanqi/Awesome-Privacy.git
+	branch = master
