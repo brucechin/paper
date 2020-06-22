@@ -43,3 +43,7 @@
 	path = crypto/Awesome-Privacy
 	url = https://github.com/Guyanqi/Awesome-Privacy.git
 	branch = master
+[submodule "crypto/sgx-tutorial-space18"]
+	path = crypto/sgx-tutorial-space18
+	url = https://github.com/jovanbulck/sgx-tutorial-space18.git
+	branch = master
