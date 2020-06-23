@@ -1,0 +1,8 @@
+enclave {
+	trusted {
+        public void ecall_secret_lookup([user_check] char *array, int len);
+    };
+	
+	untrusted {
+	};
+};

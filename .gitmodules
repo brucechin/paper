@@ -47,3 +47,7 @@
 	path = crypto/sgx-tutorial-space18
 	url = https://github.com/jovanbulck/sgx-tutorial-space18.git
 	branch = master
+[submodule "crypto/SGX/sgx-step"]
+	path = crypto/SGX/sgx-step
+	url = https://github.com/jovanbulck/sgx-step.git
+	branch = master

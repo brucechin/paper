@@ -1,0 +1,109 @@
+[RM] ../common/debug.o ../common/pf.o main.o victim.o asm.o rsa
+[CC]  ../common/debug.c
+[CC]  ../common/pf.c
+[CC]  main.c
+[CC]  victim.c
+[AS]  asm.S
+[LD] ../common/debug.o ../common/pf.o main.o victim.o asm.o -o rsa
+[main.c] registering fault handler..
+
+--------------------------------------------------------------------------------
+[main.c] Calling enclave..
+--------------------------------------------------------------------------------
+
+[main.c] square at 0x402000; muliply at 0x404000; modpow at 0x406000
+[../common/pf.c] Caught page fault (base address=0x402000)
+
+--------------------------------------------------------------------------------
+[main.c] MODPOW INVOCATION
+--------------------------------------------------------------------------------
+
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[../common/pf.c] Caught page fault (base address=0x402000)
+
+--------------------------------------------------------------------------------
+[main.c] MODPOW INVOCATION
+--------------------------------------------------------------------------------
+
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[../common/pf.c] Caught page fault (base address=0x402000)
+[../common/pf.c] Caught page fault (base address=0x40603e)
+[../common/pf.c] Caught page fault (base address=0x404000)
+[../common/pf.c] Caught page fault (base address=0x406066)
+[main.c] secure enclave encrypted '1234' to '21921'; decrypted '1234'
+[main.c] --> RECONSTRUCTED KEY '20771' (0x5123)
+[main.c] all is well; exiting..

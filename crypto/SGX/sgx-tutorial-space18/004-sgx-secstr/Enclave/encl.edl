@@ -1,0 +1,11 @@
+enclave {
+	trusted {
+        public void ecall_to_lowercase([user_check] char *s);
+
+        public void ecall_set_secret(char b);
+        public void* ecall_get_secret_adrs(void);
+    };
+	
+	untrusted {
+	};
+};

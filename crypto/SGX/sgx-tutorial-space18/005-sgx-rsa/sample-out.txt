@@ -1,0 +1,112 @@
+
+--------------------------------------------------------------------------------
+[main.c] Creating enclave...
+--------------------------------------------------------------------------------
+
+[main.c] registering fault handler..
+
+--------------------------------------------------------------------------------
+[main.c] Calling enclave..
+--------------------------------------------------------------------------------
+
+[main.c] square at 0x7f51e2403000; muliply at 0x7f51e2405000; modpow at 0x7f51e2402000
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+
+--------------------------------------------------------------------------------
+[main.c] MODPOW INVOCATION
+--------------------------------------------------------------------------------
+
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+
+--------------------------------------------------------------------------------
+[main.c] MODPOW INVOCATION
+--------------------------------------------------------------------------------
+
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2403000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2405000)
+[../common/pf.c] Caught page fault (base address=0x7f51e2402000)
+[main.c] secure enclave encrypted '1234' to '21921'; decrypted '1234'
+[main.c] --> RECONSTRUCTED KEY '20771' (0x5123)
+
+--------------------------------------------------------------------------------
+[main.c] destroying SGX enclave
+--------------------------------------------------------------------------------
+
+[main.c] all is well; exiting..

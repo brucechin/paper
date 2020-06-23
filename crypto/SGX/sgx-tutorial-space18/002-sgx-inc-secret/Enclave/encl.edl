@@ -1,0 +1,11 @@
+enclave {
+	trusted {
+        public void ecall_inc_secret(int s);
+        public void ecall_inc_secret_maccess(int s);
+
+        public void *ecall_get_a_adrs( void );
+    };
+	
+	untrusted {
+	};
+};

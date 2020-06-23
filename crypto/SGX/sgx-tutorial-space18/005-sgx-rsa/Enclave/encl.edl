@@ -1,0 +1,13 @@
+enclave {
+	trusted {
+	    public int ecall_rsa_encode(int plain);
+	    public int ecall_rsa_decode(int cipher);
+
+        public void *ecall_get_square_adrs(void);
+        public void *ecall_get_multiply_adrs(void);
+        public void *ecall_get_modpow_adrs(void);
+    };
+	
+	untrusted {
+	};
+};

@@ -1,0 +1,9 @@
+*.swp
+*.o
+*.elf
+*.elf.*
+*.bin
+*.fst
+*.fst.*
+*.out
+*.swo
