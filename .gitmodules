@@ -51,3 +51,9 @@
 	path = crypto/SGX/sgx-step
 	url = https://github.com/jovanbulck/sgx-step.git
 	branch = master
+[submodule "security and privacy/awesome-federated-computing"]
+	path = security and privacy/awesome-federated-computing
+	url = https://github.com/tushar-semwal/awesome-federated-computing.git
+[submodule "security and privacy/awesome-federated-learning"]
+	path = security and privacy/awesome-federated-learning
+	url = https://github.com/poga/awesome-federated-learning.git
