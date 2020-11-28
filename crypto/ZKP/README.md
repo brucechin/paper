@@ -197,6 +197,7 @@ SNORKs are SNARKs with universal and updateable trusted setup.
 (This is a recent development. Contributions are welcome!)
 
 - [A Marlin is One of the Fastest SNARKs in the Ocean](https://www.benthamsgaze.org/2019/09/19/a-marlin-is-one-of-the-fastest-snarks-in-the-ocean/)
+- [Preprocessing zkSNARKs with Universal and Updatable SRS](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Feprint.iacr.org%2F2019%2F1047.pdf)
 
 ## STARKS
 
